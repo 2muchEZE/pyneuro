@@ -24,7 +24,7 @@ jupyter notebook notebooks/signal_playground.ipynb
 - nompy, scipy, matplotlib, pandas, scikit-learn, jupyter
 
 ## Author
-Rob ~ @2muchEZ
+Rob ~ @2muchEZE
 
 ## Licences
 None
