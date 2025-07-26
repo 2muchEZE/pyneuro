@@ -1,0 +1,11 @@
+name: pyneuro
+channels:
+  - default
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
